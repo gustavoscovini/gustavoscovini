@@ -1,7 +1,5 @@
 ## Olá 👋, Meu nome é Gustavo Scovini e sou estudante de Ciência da Computação.
 
-- 🌱 Atualmente estudando **Javascript-React**
-
 <div align="center">
   <a href="https://github.com/gustavoscovini">
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=gustavoscovini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
