@@ -1,4 +1,4 @@
-## Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), My name is Gustavo Scovini
+## Hi 👋, My name is Gustavo Scovini
 - Computer Science Student at IFSP
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -36,5 +36,12 @@
 	<img align="center" alt="MySQL" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" />
 	<img align="center" alt=MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
 </div>
+ 
+<div align="center" > 
 
+ ## Total de visitas no meu perfil :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/gustavoscovini/count.svg" />
+ </p>
+</div>
 <!--![Snake animation](https://github.com/gustavoscovini/gustavoscovini/blob/output/github-contribution-grid-snake.svg)-->
