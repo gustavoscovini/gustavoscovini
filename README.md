@@ -9,11 +9,11 @@
 </a>
 -->
 
-<a href="http://www.github.com/gustavoscovini">
-	<img align="center" width=46% src="https://github-readme-stats.vercel.app/api?username=gustavoscovini&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="gustavoscovini's GitHub stats" /></a>
-
-<a href="https://github.com/gustavoscovini" align="left">
-	<img align="center" width=43% src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoscovini&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&layout=compact&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<div align="center">
+	<a href="https://github.com/gustascovini">
+	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoscovini&layout=compact&langs_count=7&theme=dracula">
+	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavoscovini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+</div>
 
 ## Skills: Languages
 
@@ -44,4 +44,8 @@
    <img alingn="center" src="https://profile-counter.glitch.me/gustavoscovini/count.svg" />
  </p>
 </div>
+
+##
+
+![Snake animation](https://github.com/gustavoscovini/gustavoscovini/blob/output/github-contribution-grid-snake.svg)
 <!--![Snake animation](https://github.com/gustavoscovini/gustavoscovini/blob/output/github-contribution-grid-snake.svg)-->
