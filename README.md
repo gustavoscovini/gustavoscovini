@@ -42,8 +42,8 @@
    <img alingn="center" src="https://profile-counter.glitch.me/gustavoscovini/count.svg" />
  </p>
 </div>
-
+<!--
 ##
-
-![Snake animation](https://github.com/gustavoscovini/gustavoscovini/blob/output/github-contribution-grid-snake.svg)
+-->
+<!-- ![Snake animation](https://github.com/gustavoscovini/gustavoscovini/blob/output/github-contribution-grid-snake.svg) -->
 <!--![Snake animation](https://github.com/gustavoscovini/gustavoscovini/blob/output/github-contribution-grid-snake.svg)-->
