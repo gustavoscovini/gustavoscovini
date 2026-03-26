@@ -1,5 +1,5 @@
 ## Hi 👋, My name is Gustavo Scovini
-- Computer Science Student at IFSP
+- Technical Account Manager at HUAWEI CLOUD
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-stats-weld.vercel.app/api/pin/?username=gustavoscovini&repo=github-readme-stats" />
@@ -8,12 +8,6 @@
   <img align="center" src="https://github-stats-weld.vercel.app/api/pin/?username=gustavoscovini&repo=convoychat" />
 </a>
 -->
-
-<div align="center">
-	<a href="https://github.com/gustascovini">
-	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoscovini&layout=compact&langs_count=7&theme=dracula">
-	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavoscovini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
-</div>
 
 ## Skills: Languages
 
